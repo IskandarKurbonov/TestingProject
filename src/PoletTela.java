@@ -1,7 +1,7 @@
 // Статический импорт библиотеки
 import static java.lang.Math.*;
 
-public class Demo {
+public class PoletTela {
     public static void main(String[] args) {
         // Скорость свободного падения
         final double g = 9.8;
